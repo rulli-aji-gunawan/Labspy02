@@ -1,16 +1,16 @@
 #Tugas Praktikum 2
 
-**Langkah-langkah Membuat Program Sederhana Menampilkan Bilangan Terbesar Dari 3 Angka  
+**Langkah-langkah Membuat Program Sederhana Menampilkan Bilangan Terbesar Dari 3 Angka**  
   
 1. Membuat Flowchart  
   
-![FlowchartBilanganTerbesar](https://user-images.githubusercontent.com/56189248/68029169-3f3c3280-fce9-11e9-9012-04425a128c4b.png)Welcome to the Labspy02 wiki!  
+![FlowchartBilanganTerbesar](https://user-images.githubusercontent.com/56189248/68029169-3f3c3280-fce9-11e9-9012-04425a128c4b.png)  
   
-2. Dari Flowchart, menetukan statement yang dipakai adalah "if, and, elif, else".  
+2. Dari Flowchart di atas, maka bisa menetukan statement yang dipakai adalah *"if, and, elif, else"*.  
 3. Masukkan 3 bilangan yang nilainya berbeda, dengan urutan besar kecilnya menggunakan 3 pattern yang berbeda.  
-*	Pattern 1 : nilai  a < b < c  (hasilnya harus bilangan c)*  
-*	Pattern 2 : nilai  a > b > c  (hasilnya harus bilangan a)*  
-*	Pattern 3 : nilai  a < b > c  (hasilnya harus bilangan b)*  
+*	_Pattern 1 : nilai  a < b < c  (hasilnya harus bilangan c)_  
+*	_Pattern 2 : nilai  a > b > c  (hasilnya harus bilangan a)_  
+*	_Pattern 3 : nilai  a < b > c  (hasilnya harus bilangan b)_  
 4. Run program untuk menguji hasilnya dengan 3 pattern tersebut.
 5. Print screen output program dengan nilai input menurut *Pattern 1*  
   
